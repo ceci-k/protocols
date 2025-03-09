@@ -1,0 +1,10 @@
+- Introduction
+     First initialization with AM
+
+
+
+-Comments : 
+
+Random is the  order of the questions regarding Full Name, Phone Number and Address. 
+
+Probability of choosing one of the above is random [ 1/3 ].
